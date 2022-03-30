@@ -1,6 +1,7 @@
 {
     "require": {
         "psr/log": "^3.0",
-        "psr/container": "^2.0"
+        "psr/container": "^2.0",
+        "symfony/process": "^6.0"
     }
 }
